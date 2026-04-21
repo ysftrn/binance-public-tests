@@ -1,5 +1,6 @@
 # Binance Public API Test Suite
 
+![thumbnail.png](thumbnail.png)
 A pytest-based test suite for Binance's public REST API endpoints. Built as a QA portfolio project to demonstrate API testing fundamentals: response validation, data type assertions, response time testing, parametrized tests, and CI integration.
 
 ---
