@@ -94,4 +94,4 @@ pytest tests/test_depth.py -v
 
 A GitHub Actions workflow is configured to run on every push. However, the pipeline currently fails with HTTP 451 (Unavailable For Legal Reasons) because Binance blocks requests from US-based IP addresses, which is where GitHub Actions runners are hosted. This is a geographic restriction on Binance's side, not a code issue.
 
-All 20 tests pass when run locally from a non-restricted location.
+All 23 tests pass when run locally from a non-restricted location.
